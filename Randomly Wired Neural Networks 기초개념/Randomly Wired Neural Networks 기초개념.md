@@ -1,6 +1,6 @@
 .
 
-Deep_Learning_TIL(20210228)
+Deep_Learning_TIL(20210301)
 
 study program : https://www.fastcampus.co.kr/data_camp_deeplearning
 
